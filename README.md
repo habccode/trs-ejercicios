@@ -1,5 +1,5 @@
-# trs-ejercicios /c/Users/Usuario
-# trs-ejercicios
-# proyectoets1
-# ejercicio3
+# trs-ejercicios1
+# trs-ejercicios2
+# proyectoets3
+# ejercicio
 
